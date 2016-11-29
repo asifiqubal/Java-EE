@@ -110,6 +110,8 @@ public class BookListAdapter {
 		} catch (Exception e) {
 			e.printStackTrace();
 			return null;
+			
+			//dgdsg
 		}
 	}
 
