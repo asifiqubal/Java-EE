@@ -170,8 +170,8 @@ public class BorrowListAdapter {
 			
 			else
 				b = false;
-		} catch (SQLException e) {
-			// TODO Auto-generated catch block
+		} 
+		catch (SQLException e) {
 			e.printStackTrace();
 		}
 		return b;
